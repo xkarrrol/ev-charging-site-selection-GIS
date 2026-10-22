@@ -3,6 +3,8 @@
 ## Cel projektu
 Projekt wykonany do portfolio. Celem projektu było znalezienie **3 optymalnych lokalizacji** pod budowę nowych stacji ładowania pojazdów elektrycznych (EV) na terenie Warszawy dla dynamicznie rozwijającej się sieci ładowarek. Inwestycja wymagała precyzyjnego podejścia opartego na twardych danych przestrzennych, aby zminimalizować ryzyko nietrafionych lokalizacji i zmaksymalizować zyski z potoków kierowców.
 
+<img width="3507" height="2480" alt="analiza_lokalizacyjna" src="https://github.com/user-attachments/assets/91d593d9-7e9f-478f-b5da-d6cfdbcf1fd1" />
+
 ---
 
 ## Kryteria decyzyjne
@@ -31,6 +33,5 @@ Projekt został zrealizowany przy użyciu programu **QGIS / ArcGIS Pro**. W proc
 ## Wyniki i Wnioski
 W wyniku zaawansowanej analizy nakładkowej (Overlay Analysis) wyznaczono spójną warstwę *"Obszar spełniający kryteria"*, w ramach której wskazano **3 konkretne, rekomendowane punkty (Punkt 1, Punkt 2, Punkt 3)**. 
 
-### 🗺️ Wizualizacja projektu
-<img width="3507" height="2480" alt="analiza_lokalizacyjna" src="https://github.com/user-attachments/assets/91d593d9-7e9f-478f-b5da-d6cfdbcf1fd1" />
+
 
